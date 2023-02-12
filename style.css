@@ -1,0 +1,91 @@
+#header
+{
+	
+	text-align: center;
+	height: 275px;
+	
+}
+ .center{
+	width:auto;
+	height:auto;
+	text-align: center;
+	float:center;
+
+ }
+
+#container
+{
+	background-color: #CCCCFF;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 2%; 
+}
+
+#nav
+{
+	float: left;
+	font-family: Lucida Sans Unicode;	
+	color: #3300CC;
+	width: 30%;
+	padding: 11px;
+	
+
+	
+}
+#nav ul
+{
+	list-style-type: none
+}
+#nav a
+{
+	text-decoration: none;	
+    
+	
+ }
+ a:visited
+ { 
+	color: #3300CC; 
+ }
+ a:link { 
+	color: #3300CC; 
+ }
+a:hover {
+    color: #FF4500; 
+    
+ }
+
+  
+#main
+{
+	float: right;
+	width: 68%;
+	font-family: Lucida Sans Unicode;
+	
+	
+}
+#footer
+{
+	clear: both;
+	text-align: center; 
+	padding: 1%;
+	background-color: #3399FF;	
+}
+table {
+    border-collapse: collapse;
+    border: 3px solid teal;
+}
+
+td {
+    border: 2px solid teal;
+    padding: 5px;
+    padding-right: 30px;
+}
+th  {
+    border: 2px solid teal;
+    padding: 5px;
+    padding-right: 30px;
+}
+p.danon
+{
+	font-size: 80%; 
+}
